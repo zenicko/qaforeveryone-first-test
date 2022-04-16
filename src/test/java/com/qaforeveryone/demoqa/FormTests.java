@@ -10,7 +10,7 @@ public class FormTests {
     @Test
     @DisplayName("My fist test")
     public void isFirstTest() {
-        Assertions.assertEquals(2,2);
+        Assertions.assertEquals(2, 2);
 
     }
 
@@ -25,5 +25,5 @@ public class FormTests {
         Assertions.assertEquals("ToolsQA", actualTitle);
 
     }
-
+    
 }
